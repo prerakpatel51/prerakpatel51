@@ -1,30 +1,124 @@
-<h1 align="center">Hi 👋, I'm Prerak Patel</h1>
-<h3 align="center">A passionate Python AI/ML developer from Florida Institute of technology USA</h3>
+<h1 align="center">Hi, I'm Prerak Patel 👋</h1>
+<h3 align="center">AI/ML Engineer | Python Developer | Deep Learning, XAI, Forecasting, and HPC</h3>
 
-- 🔭 I’m currently working on **Time series processing**
-
-- 🌱 I’m currently learning **NLP**
-
-- 👯 I’m looking to collaborate on **Neural network projects**
-
-- 🤝 I’m looking for help with **NLP**
-
-- 📝 I regularly write reports on [weather prediction methods](weather prediction methods)
-
-- 💬 Ask me about **Python,Django, AI/ML/DL , networks**
-
-- 📫 How to reach me **patel.prerak2798@gmail.com**
-
-- ⚡ Fun fact **I am single**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/patelprerak510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="patelprerak510" height="30" width="40" /></a>
-<a href="https://instagram.com/prerak_510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prerak_510" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prerakpatel510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prerakpatel510" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:patel.prerak2798@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/prerakpatel51020021998/">LinkedIn</a> •
+  <a href="https://github.com/prerakpatel51">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prerakpatel51&show_icons=true&locale=en&layout=compact" alt="prerakpatel51" /></p>
+## About Me
+
+I’m a graduate student in **Computer Engineering at Florida Institute of Technology** with experience building **deep learning systems, explainable AI pipelines, forecasting models, and geospatial ML applications**.
+
+My work sits at the intersection of:
+
+- **Explainable AI (XAI)**
+- **Climate and weather forecasting**
+- **Remote sensing and satellite data**
+- **Diffusion / latent diffusion models**
+- **High-performance computing (HPC)**
+- **Python-based ML systems**
+
+I’m currently working on:
+
+- **NASA-funded flash flood prediction research**
+- **Diffusion and latent diffusion models for climate nowcasting**
+- **Scalable multi-GPU training workflows on HPC clusters**
+
+---
+
+## Featured Projects
+
+### 🔹 Cross-Domain Attribution Analysis under Domain Shift
+Built a cross-domain XAI pipeline on **DomainNet** using **ResNet-152** to study model behavior under distribution shift across **real** and **sketch** domains.
+
+- Compared **Grad-CAM, Grad-CAM++, Integrated Gradients, and LIME**
+- Evaluated explanations using **stability, faithfulness, cross-domain consistency, and representation behavior**
+- Found that **sketch-trained models learned more transferable, shape-based features**, while **real-trained models showed stronger texture bias under shift**
+
+[Repository](https://github.com/prerakpatel51/xai_cross_domain_attribution_analysis)
+
+---
+
+### 🔹 3D Variational Autoencoders for Satellite IMERG and IR Data
+Designed and trained **3D β-VAE models** on HPC clusters for large-scale satellite data compression and climate modeling.
+
+- Processed **1TB+ geospatial datasets**
+- Reduced memory usage by **35%**
+- Improved multi-GPU training speed by **50%**
+- Supported flood prediction and disaster response workflows
+
+---
+
+### 🔹 Satellite Image Segmentation for Environmental Monitoring
+Built a **U-Net-based segmentation system** for satellite imagery with an interactive web interface.
+
+- Achieved **86% accuracy**
+- Reduced manual analysis time by **70%**
+- Enabled automated land-use classification for environmental applications
+
+[Repository](https://github.com/prerakpatel51/satellite-image-segmentor)
+
+---
+
+### 🔹 Rainfall Forecasting with STL Decomposition and Deep Learning
+Developed rainfall prediction workflows using **STL decomposition**, **GRU**, and **multi-task GRU** models.
+
+- Focused on time-series decomposition and forecasting
+- Combined statistical and deep learning approaches for rainfall prediction
+
+[Repository](https://github.com/prerakpatel51/Rainfall_prediction_using_STL_decomposition_GRU_MTGRU_)
+
+---
+
+## Tech Stack
+
+**Languages:**  
+Python, C++, Java, SQL, JavaScript
+
+**ML / DL:**  
+PyTorch, TensorFlow, Keras, Scikit-learn
+
+**Data / Scientific Computing:**  
+NumPy, Pandas, Matplotlib, Plotly, OpenCV, SciPy, Statsmodels
+
+**Web / Backend:**  
+Django, REST APIs, Redis, PostgreSQL, HTML, CSS, Bootstrap
+
+**Infra / Deployment:**  
+Git, Docker, Kubernetes, AWS, Gradio, Slurm, HPC Clusters
+
+**Domains:**  
+Explainable AI, Forecasting, Geospatial Data Processing, Variational Autoencoders, Diffusion Models, Time Series Analysis
+
+---
+
+## Research and Interests
+
+I’m especially interested in:
+
+- Trustworthy and explainable deep learning
+- Climate AI and weather nowcasting
+- Scientific machine learning
+- Diffusion models and generative modeling
+- Scalable training on GPU/HPC infrastructure
+
+---
+
+## Current Focus
+
+- Building robust forecasting systems for real-world climate applications
+- Studying how deep learning models behave under distribution shift
+- Designing efficient training pipelines for large-scale spatiotemporal data
+
+---
+
+## Connect With Me
+
+- **Email:** patel.prerak2798@gmail.com
+- **LinkedIn:** <a href="https://www.linkedin.com/in/prerakpatel51020021998/">Prerak Patel</a>
+
+If you're working on **AI/ML, forecasting, XAI, or geospatial deep learning**, I'd be happy to connect.
